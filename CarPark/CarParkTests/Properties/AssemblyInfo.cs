@@ -5,9 +5,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("CarParkTests")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("BGL Group Ltd")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("CarParkTests")]
-[assembly: AssemblyCopyright("Copyright © BGL Group Ltd 2017")]
+[assembly: AssemblyCopyright("Copyright © 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
